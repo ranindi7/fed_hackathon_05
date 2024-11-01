@@ -8,7 +8,7 @@ Creating a webpage that generates random quotes fetched from an API
 
 - Ranindi Gunasekera
 - Akashdeep Singh
-- Name 3
+- Sukhpreet Kaur
 
 ## Member Contributions:
 
@@ -20,6 +20,6 @@ Creating a webpage that generates random quotes fetched from an API
 
 -   Was responsible for creating the structure of the webpage and also collectively worked on javascript to generate quote.
 
-### Name 3:
+### Sukhpreet Kaur:
 
--   Handled [specific sections], covering [specific topics or features].
+-   worked with CSS file for styling the web page and also collectively worked on javascript to generate quote.
