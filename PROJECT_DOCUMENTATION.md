@@ -6,9 +6,9 @@ Creating a webpage that generates random quotes fetched from an API
 
 ## Team Members:
 
--   Ranindi Gunasekera
--   Name 2
--   Name 3
+- Ranindi Gunasekera
+- Akashdeep Singh
+- Name 3
 
 ## Member Contributions:
 
@@ -16,7 +16,7 @@ Creating a webpage that generates random quotes fetched from an API
 
 -   Worked on [specific elements] of the webpage.
 
-### Name 2:
+### Akashdeep Singh:
 
 -   Was responsible for [specific tasks], focusing on [specific HTML elements].
 
