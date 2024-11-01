@@ -14,7 +14,7 @@ Creating a webpage that generates random quotes fetched from an API
 
 ### Ranindi Gunasekera:
 
--   Worked on [specific elements] of the webpage.
+-   Created files, mainly coded js to generate quotes on click of the button.
 
 ### Akashdeep Singh:
 
