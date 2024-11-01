@@ -1,18 +1,18 @@
 # Project Documentation
 
 ## Project Overview
+Creating a webpage that generates random quotes fetched from an API
 
-[Provide a brief summary of the project, including the theme and objectives.]
 
 ## Team Members:
 
--   Name 1
+-   Ranindi Gunasekera
 -   Name 2
 -   Name 3
 
 ## Member Contributions:
 
-### Name 1:
+### Ranindi Gunasekera:
 
 -   Worked on [specific elements] of the webpage.
 
