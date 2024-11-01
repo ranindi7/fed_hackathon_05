@@ -18,7 +18,7 @@ Creating a webpage that generates random quotes fetched from an API
 
 ### Akashdeep Singh:
 
--   Was responsible for [specific tasks], focusing on [specific HTML elements].
+-   Was responsible for creating the structure of the webpage and also collectively worked on javascript to generate quote.
 
 ### Name 3:
 
